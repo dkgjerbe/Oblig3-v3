@@ -4,7 +4,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 
 
 @DisplayName("Tests for Oblig 2")
-public class Test_leap_year {
+public class TestLeapYear {
 
     @Test
     @DisplayName("Are tests running?")
